@@ -111,14 +111,14 @@ A simple, reusable pipeline for lightweight document automation.
 
 
 # Session 2: Rapid Prototyping
-
+## Prompt for Claude/Replit/Cursor
 Create a Python script that generates assignments and quizzes based on a provided document or topic. 
 -The script should accept input text (document or topic) and output 2 assignment questions (e.g., essay prompts) and 3 multiple-choice quiz questions with options and answers. 
 -Use simple logic to parse the input (e.g., split by sentences or keywords) and print the results. 
 -Add Streamlit for the frontend.
 
 
-# 📚 Educational Content Generator
+## 📚 Educational Content Generator
 
 An interactive **Streamlit-based tool** that generates **assignments** and **quiz questions** from text or PDF documents.  
 This project is designed for educators, students, and researchers who need quick educational content creation.
