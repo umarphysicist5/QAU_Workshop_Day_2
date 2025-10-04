@@ -75,14 +75,12 @@ A simple, reusable pipeline for lightweight document automation.
   - Gmail (for sending email reports)  
 - A target Google Sheet with columns: `Filename | Text | Keywords`
 
----
 
 ### 2. Import the Workflow
-1. Clone/download this repo  
+1. Clone/download  **Text Files Processing Workflow.json**
 2. Open n8n Cloud → **Workflows** → **Import from File**  
-3. Upload `workflow.json` from this repo
+3. Upload **Text Files Processing Workflow.json**
 
----
 
 ### 3. Configure Google Credentials
 - In n8n, create new credentials for **Google Drive**, **Google Sheets**, and **Gmail**  
@@ -123,7 +121,6 @@ Create a Python script that generates assignments and quizzes based on a provide
 An interactive **Streamlit-based tool** that generates **assignments** and **quiz questions** from text or PDF documents.  
 This project is designed for educators, students, and researchers who need quick educational content creation.
 
----
 
 ## ✨ Features
 
