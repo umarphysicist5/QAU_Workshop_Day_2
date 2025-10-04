@@ -1,5 +1,40 @@
 # Session 1: RL Agent
 
+## 🤖 Q-Learning Robot Navigation
+
+This project demonstrates **Q-Learning in a Grid World** using Python.  
+The robot learns to navigate from a **start position (S)** to a **goal (G)** while avoiding obstacles (X), maximizing cumulative rewards, and balancing exploration vs. exploitation.  
+
+The environment includes:
+- ✅ **Rewards for reaching the goal**  
+- 🚧 **Penalties for hitting obstacles**  
+- 📉 **Distance-based shaping rewards** (guides the robot closer to the goal)  
+- 📊 **Visualization** of Q-values, paths, and learning progress  
+
+---
+
+### 📸 Demo Preview
+The robot learns to move around obstacles and reach the goal optimally.  
+- **Grid world visualization** (Start, Goal, Obstacles, Path)  
+- **Q-Table text view** with best actions per state  
+- **Plots** for:
+  - Grid world & robot position  
+  - Q-values heatmap  
+  - Learning curve (reward per episode)  
+  - Epsilon decay (exploration rate)  
+
+---
+
+### 🛠 Features
+- **Epsilon-greedy action selection** with decay  
+- **Distance-based reward shaping**  
+- **Obstacle handling** with penalties  
+- **Matplotlib visualizations** for training and optimal policy  
+- **Dynamic obstacle addition** after training  
+- **Text + graphical grid world representation**  
+
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18oXJzKvAuvCKiCcex57-FFcRLOs0ZDnS)  
 
 
