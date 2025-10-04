@@ -82,3 +82,36 @@ Create a Python script that generates assignments and quizzes based on a provide
 -Use simple logic to parse the input (e.g., split by sentences or keywords) and print the results. 
 -Add Streamlit for the frontend.
 
+
+# 📚 Educational Content Generator
+
+An interactive **Streamlit-based tool** that generates **assignments** and **quiz questions** from text or PDF documents.  
+This project is designed for educators, students, and researchers who need quick educational content creation.
+
+---
+
+## ✨ Features
+
+- 📝 **Input Options**
+  - Upload a **PDF file** (up to 50MB)
+  - Paste or type text directly
+  - Use the built-in **sample text** demo
+
+- 📄 **Assignments**
+  - Generates **2 essay-style questions**
+  - Comparative and analytical prompts
+
+- 🎯 **Quizzes**
+  - Creates **3 multiple-choice questions**
+  - Includes distractors and correct answers
+
+- 🔍 **Concept Extraction**
+  - Automatically identifies **key concepts** from text
+
+- 📤 **Export**
+  - Download generated results as a `.txt` file
+
+- 🎨 **Beautiful UI**
+  - Styled with custom CSS for clean display
+
+
