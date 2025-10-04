@@ -1,11 +1,11 @@
-# Session 1 RL Agent
+# Session 1: RL Agent
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18oXJzKvAuvCKiCcex57-FFcRLOs0ZDnS)  
 
 
 
 
-# Session 1 No-code Automation
+# Session 1: No-code Automation
 ## Automated TXT File Processing Pipeline with n8n  
 *(Google Drive → Google Sheets → Gmail)*
 
@@ -75,7 +75,7 @@ A simple, reusable pipeline for lightweight document automation.
 
 
 
-# Session 2 Rapid Prototyping
+# Session 2: Rapid Prototyping
 
 Create a Python script that generates assignments and quizzes based on a provided document or topic. 
 -The script should accept input text (document or topic) and output 2 assignment questions (e.g., essay prompts) and 3 multiple-choice quiz questions with options and answers. 
